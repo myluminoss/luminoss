@@ -1,2 +1,5 @@
 # luminoss
-luminoss intro
+introduction of the Lumioss project.
+
+All code repositories：https://github.com/myluminoss
+
