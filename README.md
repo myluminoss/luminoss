@@ -1,5 +1,5 @@
 # luminoss
-introduction of the Lumioss project.
+introduction of the Luminoss project.
 
 All code repositories：https://github.com/myluminoss
 
